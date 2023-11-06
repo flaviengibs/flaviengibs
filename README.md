@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flaviengibs
+- 👀 I’m interested by Math, Physic and Informatic
+- 🌱 I’m currently in high school
+- 💻 I'm currently created a java Bank programm
