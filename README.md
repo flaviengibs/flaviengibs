@@ -2,3 +2,4 @@
 - 👀 I’m interested by Math, Physic and Informatic
 - 🌱 I’m currently in high school
 - 💻 I'm currently created a java Bank programm
+- 👌 My java Bank will be ready in a few weeks
