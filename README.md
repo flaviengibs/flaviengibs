@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flaviengibs
 - 👀 I’m interested in Maths, Physics and Computer Science
 - 🌱 I’m currently in junior high school
-- 💻 I'm currently creating a java Bank programm
+- 💻 I'm currently creating a java Bank programm and a game with aliens. These are disponible on Github !
 - 👌 My java Bank will be ready in a few weeks
