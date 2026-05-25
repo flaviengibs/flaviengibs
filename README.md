@@ -2,7 +2,7 @@
 
 Experiments, tools & systems. Portfolio : https://gibbons.fr
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1999&pause=1000&width=600&lines=Create+real+things%2C+not+just+concepts.;Build+weird+things+that+define+yourself.)](https://gibbons.fr)
-[![GitHub Streak](https://streak-stats.demolab.com?user=flaviengibs&theme=gruvbox-duo)](https://gibbons.fr)
+
 
 ---
 
@@ -34,7 +34,7 @@ Experiments, tools & systems. Portfolio : https://gibbons.fr
 - 🤖 Discord bots  
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=flaviengibs&theme=gruvbox-duo)](https://gibbons.fr)
 ## 🛠️ Stack
 
 ![JavaScript](https://img.shields.io/badge/JS-000?style=flat&logo=javascript)
