@@ -49,8 +49,7 @@ Experiments, tools & systems. Portfolio : https://gibbons.fr
 
 - 🌐 Portfolio → https://gibbons.fr  
 - 💻 GitHub → https://github.com/flaviengibs  
-- 📬 Contact → (ton lien Formspree)  
-- 💬 Discord → (optionnel)
+- 📬 Contact → flaviengibs@proton.me  
 
 ---
 
