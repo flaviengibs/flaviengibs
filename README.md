@@ -42,7 +42,6 @@ Experiments, tools & systems. Portfolio : https://gibbons.fr
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
 ![Web](https://img.shields.io/badge/Web-Apps-000)
 ![CLI](https://img.shields.io/badge/CLI-Tools-000)
-![Imagination](https://custom-icon-badges.demolab.com?logo=flaviengibs)
 
 ---
 
