@@ -1,3 +1,4 @@
+Hi ! I'm ***flaviengibs***, and I'm a young french developer passionated by IT ! I try to build real systems, not just mock projects.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1999&pause=1000&width=600&lines=Create+real+things%2C+not+just+concepts.;Build+weird+things+that+define+yourself.)](https://gibbons.fr)
 
 ---
@@ -12,7 +13,7 @@
 
 - 🏗️ **Auto-Architect**  
   Software architecture analysis & optimization system  
-  → https://flaviengibs.github.io/auto-architect/web/index.html
+  → https://architect.gibbons.fr
 
 - 🏫 **SchoolMS**  
   Full school management system (roles, grades, attendance, messaging)  
