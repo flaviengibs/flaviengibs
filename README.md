@@ -23,8 +23,8 @@ Hi ! I'm ***flaviengibs***, and I'm a young french developer passionated by IT !
 
 ## 🧪 Other Projects
 
-- 🖥️ Linuxgibs, a Linux terminal simulator : [get started !](linux.gibbons.fr) or [check the repository](https://github.com/flaviengibs/linuxgibs)  
-- 🧬 NanoCore (browser game) : [try it here!](nanocore.gibbons.fr) or [check the repository](https://github.com/flaviengibs/nanocore)
+- 🖥️ Linuxgibs, a Linux terminal simulator : [get started !](https://linux.gibbons.fr) or [check the repository](https://github.com/flaviengibs/linuxgibs)  
+- 🧬 NanoCore (browser game) : [try it here!](https://nanocore.gibbons.fr) or [check the repository](https://github.com/flaviengibs/nanocore)
 - 🧰 FixEnv (CLI dev tool)  : [check the repository](https://github.com/flaviengibs/fixenv)
 - 🤖 Discord bots : [install them on your server](https://bots.gibbons.fr), or check their repositories : [insult tracker bot in ENG or FR](https://github.com/flaviengibs/insult-tracker-bot-eng-fr) | [funny scripted conversational bot in FR](https://github.com/flaviengibs/useless-bot)
 - 🧭 Focus Toolkit, a Chrome extension that helps you remind things and tabs : [check repository](https://github.com/flaviengibs/focus-toolkit) 
